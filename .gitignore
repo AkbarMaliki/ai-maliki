@@ -1,0 +1,6 @@
+__pycache__
+.api_key
+old_demos/
+code/
+.env
+generated

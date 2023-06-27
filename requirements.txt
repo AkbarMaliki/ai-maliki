@@ -1,0 +1,8 @@
+unstructured
+langchain
+playwright
+tiktoken
+dotenv
+PyPDF
+FAISS
+requests
